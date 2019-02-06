@@ -1,2 +1,3 @@
-multiply function
+multiply functioni
 XXy
+Subtract function
